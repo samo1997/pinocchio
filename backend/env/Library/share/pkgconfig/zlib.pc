@@ -1,0 +1,13 @@
+prefix=C:/Users/alex_/PycharmProjects/project-pinocchio/backend/env/Library
+exec_prefix=C:/Users/alex_/PycharmProjects/project-pinocchio/backend/env/Library
+libdir=C:/Users/alex_/PycharmProjects/project-pinocchio/backend/env/Library/lib
+sharedlibdir=C:/Users/alex_/PycharmProjects/project-pinocchio/backend/env/Library/lib
+includedir=C:/Users/alex_/PycharmProjects/project-pinocchio/backend/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

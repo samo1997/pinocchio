@@ -1,0 +1,20 @@
+==> 2020-11-12 10:26:54 <==
+# cmd: C:\Users\alex_\anaconda3\Scripts\conda-env-script.py update --prefix ./env --file requirements.yml --prune
+# conda version: 4.8.5
++defaults/noarch::certifi-2020.6.20-pyhd3eb1b0_3
++defaults/noarch::wheel-0.35.1-py_0
++defaults/win-64::ca-certificates-2020.10.14-0
++defaults/win-64::krb5-1.17.1-hc04afaa_0
++defaults/win-64::libpq-12.2-h3235a2c_0
++defaults/win-64::openssl-1.1.1h-he774522_0
++defaults/win-64::pip-20.2.4-py38haa95532_0
++defaults/win-64::psycopg2-2.8.5-py38h7a1dbc1_0
++defaults/win-64::python-3.8.5-h5fd99cc_1
++defaults/win-64::setuptools-50.3.1-py38haa95532_1
++defaults/win-64::sqlite-3.33.0-h2a8f88b_0
++defaults/win-64::tk-8.6.10-he774522_0
++defaults/win-64::vc-14.1-h0510ff6_4
++defaults/win-64::vs2015_runtime-14.16.27012-hf0eaf9b_3
++defaults/win-64::wincertstore-0.2-py38_0
++defaults/win-64::zlib-1.2.11-h62dcd97_4
+# update specs: ['psycopg2', 'pip', 'python==3.8.5']
